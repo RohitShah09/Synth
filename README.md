@@ -1,0 +1,2 @@
+# Synth
+AI Discord bot
